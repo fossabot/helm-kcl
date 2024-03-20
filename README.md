@@ -3,6 +3,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/kcl-lang/helm-kcl)](https://goreportcard.com/report/github.com/kcl-lang/helm-kcl)
 [![GoDoc](https://godoc.org/github.com/kcl-lang/helm-kcl?status.svg)](https://godoc.org/github.com/kcl-lang/helm-kcl)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/kcl-lang/helm-kcl/blob/main/LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcl-lang%2Fhelm-kcl.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcl-lang%2Fhelm-kcl?ref=badge_shield)
 
 [KCL](https://github.com/kcl-lang/kcl) is a constraint-based record & functional domain language. Full documents of KCL can be found [here](https://kcl-lang.io/).
 
@@ -217,3 +218,7 @@ See [here](https://kcl-lang.io/krm-kcl/tree/main/examples) for more examples.
 + [helm-secrets](https://github.com/jkroepke/helm-secrets)
 + [helm-s3](https://github.com/hypnoglow/helm-s3)
 + [helm-git](https://github.com/aslafy-z/helm-git)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcl-lang%2Fhelm-kcl.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcl-lang%2Fhelm-kcl?ref=badge_large)
